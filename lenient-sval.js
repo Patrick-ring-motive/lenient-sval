@@ -16,6 +16,7 @@ function buildSval() {
     globalThis.self = globalThis;
   }
   void
+
   function Globals() {
     const q = (varFn) => {
       try {
